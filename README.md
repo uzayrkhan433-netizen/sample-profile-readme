@@ -1,16 +1,42 @@
-## 👏 Hi, I'm *your name here*
-##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
-## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
-## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+# Hi, I'm Uzayr! 👋
 
-_"Your sample quote here!"_
+💻 **Computer Information Systems Student | Aspiring Cybersecurity Professional**
+
+Welcome to my GitHub profile! I'm a college student interested in cybersecurity, information technology, and learning how to protect systems and networks.
+
+## 🚀 About Me
+
+- 🎓 Studying Cyber security
+- 🔐 Interested in cybersecurity, network security, and ethical hacking.
+- 🐧 Learning Linux, Kali Linux, and command-line tools.
+- 🖥️ Practicing virtualization, Git, GitHub, and system administration.
+- 📚 Always looking to learn new technical skills and work on projects.
+
+## 🛠️ Technical Skills
+
+- **Operating Systems:** Windows, Linux, Kali Linux
+- **Tools:** Git, GitHub, VirtualBox, Visual Studio Code
+- **Programming:** Python and Bash fundamentals
+- **Cybersecurity:** Network security fundamentals, SSH, system hardening, and security analysis
+
+## 📂 Projects and Learning
+
+- **Linux Labs:** Practicing Linux commands, file permissions, and system administration.
+- **Virtualization:** Setting up and managing virtual machines for cybersecurity learning.
+- **GitHub Practice:** Learning version control, repositories, commits, and SSH authentication.
+- **Python Projects:** Exploring beginner projects to improve my programming and cybersecurity skills.
+
+## 🎯 My Goals
+
+My goal is to develop my cybersecurity knowledge, gain hands-on IT experience, and build projects that demonstrate my technical skills.&#x20;
+
+## 📫 Connect With Me
+
+- GitHub: @uzayrkhan433
+
+---
+
+⭐ Thanks for visiting my profile!
+
+
+_"You only lose when you quit"_
